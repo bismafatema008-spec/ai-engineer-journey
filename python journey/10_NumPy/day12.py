@@ -119,8 +119,9 @@ arra_2d =np.array(
 print (arra_2d)
 new_2d =np.delete(arra_2d, 0, axis=0)
 print (new_2d)
-new2_3d = np.delete(arra_2d, 1, axis=1)
-print (new2_3d)
-new2_3d = np.delete(arra_2d, 0, axis=1)
-print (new2_3d)
+new2_2d = np.delete(arra_2d, 1, axis=1)
+print (new2_2d)
+new2_2d = np.delete(arra_2d, 0, axis=1)
+print (new2_2d)
+
 

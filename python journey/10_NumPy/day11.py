@@ -38,12 +38,12 @@ print (matrix[0,1])
 # Array property Shape
 # ==============================
 print (matrix.shape)
-print (numbers.shape) #count no of elemnt present in 1D array.
+print (numbers.shape) 
 #with default values : for future use!
 #for zero no
 zeros_array =np.zeros(3)
 print (zeros_array)  #output [0. 0. 0.]
-zeros_array=np.zeros([2,3])
+
 print (zeros_array)
 #for one no
 ones_array =np.ones([2,3])
@@ -111,5 +111,4 @@ print(arr.dtype)
 arr =np.array([1.2,2.3,3.4])
 int_arr =arr.astype(int) 
 print(int_arr) #astype(int) decimal ko round nahi karta, decimal part ko remove karta hai.
-identity_matrix =np.eye(3)
-print (identity_matrix)
+

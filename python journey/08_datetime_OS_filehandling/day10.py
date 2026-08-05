@@ -2,7 +2,6 @@
 # ==========================================
 # 1. DATETIME MODULE
 # ==========================================
-
 import datetime
 
 # Getting the Current Date and Time
@@ -13,34 +12,26 @@ print(datetime.datetime.now())
 print("Today's Date:")
 print(datetime.date.today())
 
-
 # Formatting Date and Time
 now = datetime.datetime.now()
 
 print("Today's Date:", now.strftime("%d-%m-%Y"))
 print("Today's Time:", now.strftime("%H-%M-%S"))
 
-
 # ==========================================
 # 2. OS MODULE
 # ==========================================
-
 # The OS module allows Python to interact with
 # the operating system, files, and folders.
 
 import os
-
-
 # Getting the Current Working Directory
 print("Current Folder:")
 print(os.getcwd())
 
-
 # Listing Files and Folders
 print("List of Files and Folders:")
 print(os.listdir())
-
-
 # ==========================================
 # 3. CREATING A FOLDER
 # ==========================================
@@ -68,12 +59,10 @@ if os.path.exists("AI_Projects"):
     os.rename("AI_Projects", "My_AI_Projects")
     print("Folder renamed successfully!")
 
-
 # Removing the folder
 if os.path.exists("My_AI_Projects"):
     os.rmdir("My_AI_Projects")
     print("Folder removed successfully!")
-
 
 # ==========================================
 # 5. CREATING & WRITING TO A FILE
@@ -88,7 +77,6 @@ if not os.path.exists("note.txt"):
 else:
     print("File already exists!")
 
-
 # ==========================================
 # 6. READING A FILE
 # ==========================================
@@ -96,7 +84,6 @@ else:
 with open("note.txt", "r") as file:
     content = file.read()
     print(content)
-
 
 # ==========================================
 # 7. APPENDING CONTENT TO A FILE
