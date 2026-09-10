@@ -24,11 +24,11 @@ I'm currently building my Python fundamentals and progressing toward advanced Py
 - ✅ File Handling
 - ✅ OS Module
 - ✅ Python Projects
-- 🔄 NumPy *(in progress)*
+- ✅ NumPy 
+- 🔄Pandas *(in progress)* 
 
 ### Coming Next
 
-- ⏳ Pandas
 - ⏳ Matplotlib
 - ⏳ Statistics
 - ⏳ Linear Algebra
