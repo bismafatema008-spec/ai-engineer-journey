@@ -1,49 +1,44 @@
-# 🚀 My AI Engineering Journey
+# AI Engineering Journey
 
-Welcome to my AI Engineering learning journey.
+A hands-on learning log documenting my progress from Python fundamentals toward data science, machine learning, and AI engineering.
 
-I'm **Bisma Fatema**, a BCA student building my technical foundation step by step with the goal of becoming an AI Engineer.
+I'm **Bisma Fatema**, a first-year BCA student building strong programming and problem-solving foundations. This repository collects my practice code, learning notes, and projects as I develop my skills step by step.
 
-This repository documents my learning progress, coding practice, projects, and experiments as I continue developing my technical skills.
-
----
-
-## 🐍 Python Journey
-
-I'm currently building my Python fundamentals and progressing toward advanced Python and AI development.
-
-### Topics Covered
-
-- ✅ Python Basics
-- ✅ Conditions
-- ✅ Strings
-- ✅ Loops
-- ✅ Lists
-- ✅ Functions
-- ✅ Modules
-- ✅ File Handling
-- ✅ OS Module
-- ✅ Python Projects
-- ✅ NumPy 
-- 🔄Pandas *(in progress)* 
-
-### Coming Next
-
-- ⏳ Matplotlib
-- ⏳ Statistics
-- ⏳ Linear Algebra
-- ⏳ Machine Learning
-- ⏳ Deep Learning
-- ⏳ Generative AI
-- ⏳ AI Engineering Projects
+> **Learning approach:** Learn → Practice → Build → Document → Improve
 
 ---
 
-## 📂 Repository Structure
+## Current focus
+
+- Strengthening Python fundamentals
+- Practising numerical computing with NumPy
+- Learning Pandas for data manipulation
+
+## Python topics
+
+The following topics are represented in this repository:
+
+- [x] Python basics
+- [x] Conditional statements
+- [x] Strings
+- [x] Loops
+- [x] Lists
+- [x] Functions
+- [x] Modules
+- [x] File handling
+- [x] OS module
+- [x] Python practice projects
+- [x] NumPy
+- [ ] Pandas — in progress
+
+The checkmarks describe topics I have studied or practised; they are not a claim of professional-level mastery.
+
+## Repository structure
+
+The folders are organised by topic so that the learning journey is easy to follow:
 
 ```text
-python journey/
-│
+.
 ├── 01_Basics/
 ├── 02_Conditions/
 ├── 03_Strings/
@@ -53,20 +48,50 @@ python journey/
 ├── 7_modules/
 ├── 08_datetime_OS_filehandling/
 ├── 09_AI_project/
-└── 10_NumPy/          🎯 Current Focus
-🎯 My Roadmap
+└── 10_NumPy/
+```
 
-Python → Mathematics → Data Science → Machine Learning → Deep Learning → Generative AI → AI Engineering
+Folder names are shown as they currently appear in the repository.
 
-My goal is to build strong foundations, develop practical skills, and create real-world AI projects.
+## Learning roadmap
 
-📈 Learning Philosophy
+My planned progression is:
 
-Learn → Practice → Build → Document → Improve
+1. **Python** — write readable code and practise problem-solving.
+2. **Mathematics and statistics** — strengthen the foundations needed for data and machine learning.
+3. **Data analysis** — learn Pandas, visualisation, and exploratory data analysis.
+4. **Machine learning** — study core algorithms and evaluate models.
+5. **Deep learning** — understand neural networks and practical frameworks.
+6. **Generative AI** — explore large language models and generative applications.
+7. **AI engineering** — build, test, document, and deploy useful AI-powered projects.
 
-This repository is a record of my progress from programming fundamentals toward real-world AI Engineering, built consistently one step at a time.
-## 🔗 Connect With Me
+This roadmap is a plan, not a list of completed skills. I will update it as I make progress.
 
-- **GitHub:** [Bisma Fatema](https://github.com/bismafatema008-spec)
+## Next learning goals
+
+- [ ] Pandas
+- [ ] Matplotlib and data visualisation
+- [ ] Statistics for data science
+- [ ] Linear algebra fundamentals
+- [ ] Introductory machine learning
+- [ ] Deep learning fundamentals
+- [ ] Generative AI concepts
+- [ ] End-to-end AI projects
+
+## How to explore
+
+- Browse the topic folders to see code and exercises.
+- Open individual files to follow the examples.
+- Check back as I add notes, practice work, and projects.
+
+As the repository grows, I aim to include clearer explanations and instructions for running substantial projects.
+
+## Connect
+
+- **GitHub:** [bismafatema008-spec](https://github.com/bismafatema008-spec)
 - **LinkedIn:** [Bisma Fatema](https://www.linkedin.com/in/bisma-fatema-131689413/)
-- **Portfolio:** [My Portfolio](https://github.com/bismafatema008-spec/Portfolio)
+- **Portfolio repository:** [Portfolio](https://github.com/bismafatema008-spec/Portfolio)
+
+---
+
+*This repository is a work in progress and a record of learning in public.*
